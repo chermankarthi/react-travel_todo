@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chermankarthi/react-travel_todo.git/static/css/main.a2ae6d45.css",
+    "main.js": "/chermankarthi/react-travel_todo.git/static/js/main.3ae4d111.js",
+    "static/js/787.0a9f6c4f.chunk.js": "/chermankarthi/react-travel_todo.git/static/js/787.0a9f6c4f.chunk.js",
+    "index.html": "/chermankarthi/react-travel_todo.git/index.html",
+    "main.a2ae6d45.css.map": "/chermankarthi/react-travel_todo.git/static/css/main.a2ae6d45.css.map",
+    "main.3ae4d111.js.map": "/chermankarthi/react-travel_todo.git/static/js/main.3ae4d111.js.map",
+    "787.0a9f6c4f.chunk.js.map": "/chermankarthi/react-travel_todo.git/static/js/787.0a9f6c4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ae6d45.css",
+    "static/js/main.3ae4d111.js"
+  ]
+}
